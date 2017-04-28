@@ -1,3 +1,16 @@
 {
-  "users": []
+  "users": [
+    {
+      "id": 31937438,
+      "firstName": "Breana",
+      "lastName": "Koepp",
+      "email": "Donato_Schultz@gmail.com"
+    },
+    {
+      "id": 81366973,
+      "firstName": "Amaya",
+      "lastName": "Hand",
+      "email": "Naomie_Jacobs4@gmail.com"
+    }
+  ]
 }
